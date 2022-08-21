@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "target": "es5",
+        "sourceMap": true,
+        "lib": [
+            "es5",
+            "dom"
+        ],
+        "noUnusedLocals": true,
+        "module": "commonjs"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
